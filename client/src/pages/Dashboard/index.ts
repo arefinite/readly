@@ -1,0 +1,7 @@
+export { default as AddBook } from './AddBook'
+export { default as AddEbook } from './AddEbook'
+export { default as ManageBooks } from './ManageBooks'
+export { default as ManageEbooks } from './ManageEbooks'
+export { default as UpdateBook } from './UpdateBook'
+export { default as UpdateEbook } from './UpdateEbook'
+export { default as Profile } from './Profile'
